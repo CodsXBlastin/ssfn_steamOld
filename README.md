@@ -1,2 +1,2 @@
 # ssfn_steamOld
-This is a Windows Executable Batch to open Steam.exe.old -console inside the Geforce Now Machine 
+This is a Windows Executable Batch File to open the old steam console inside the GeForce Now Machine to access games not supported by GeForce Now. 
